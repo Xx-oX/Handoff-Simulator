@@ -1,0 +1,179 @@
+Arrival rate: 0.500000
+Policy = Best
+T = 0.000000, E = 0.000000
+Total_power_max: 2679664157.557139, Avg_max: 21.705823 dBm
+Total_power_min: 2312941275.476638, Avg_min: 18.735293 dBm
+Condition: 20.220558 dBm
+Total_power: 2679664157.557139, Avg power: 21.705823 dBm
+Total cars: 123453702, Avg cars per sec: 1428 cars
+Handoffs: 1355866 times
+Total time:102.609375 sec
+
+---
+
+Arrival rate: 0.500000
+Policy = Threshold
+T = 15.000000, E = 0.000000
+Total_power_max: 2680115479.630761, Avg_max: 21.704204 dBm
+Total_power_min: 2312922374.860128, Avg_min: 18.730588 dBm
+Condition: 20.217396 dBm
+Total_power: 2508131380.106464, Avg power: 20.311436 dBm
+Total cars: 123483704, Avg cars per sec: 1429 cars
+Handoffs: 709561 times
+Total time:91.671875 sec
+
+-----
+
+Arrival rate: 0.500000 
+Policy = Threshold
+T = 14.000000, E = 0.000000
+Total_power_max: 2683748850.732851, Avg_max: 21.709131 dBm
+Total_power_min: 2315965967.983538, Avg_min: 18.734096 dBm
+Condition: 20.221613 dBm
+Total_power: 2467138113.866918, Avg power: 19.956943 dBm
+Total cars: 123623046, Avg cars per sec: 1430 cars
+Handoffs: 571308 times
+Total time:92.250000 sec
+
+---
+
+Arrival rate: 0.500000 
+Policy = Entropy
+T = 0.000000, E = 13.000000
+Total_power_max: 2681207069.763977, Avg_max: 21.706108 dBm
+Total_power_min: 2313864691.904859, Avg_min: 18.732233 dBm
+Condition: 20.219170 dBm
+Total_power: 2505586983.596953, Avg power: 20.284349 dBm
+Total cars: 123523163, Avg cars per sec: 1429 cars
+Handoffs: 433011 times
+Total time:94.125000 sec
+
+---
+
+Arrival rate: 0.500000
+Policy = Entorpy
+T = 0.000000, E = 14.000000
+Total_power_max: 2679406605.993431, Avg_max: 21.705956 dBm
+Total_power_min: 2312708320.573160, Avg_min: 18.735322 dBm
+Condition: 20.220639 dBm
+Total_power: 2491430243.621740, Avg power: 20.183154 dBm
+Total cars: 123441078, Avg cars per sec: 1428 cars
+Handoffs: 413745 times
+Total time:98.890625 sec
+
+---
+
+Arrival rate: 0.500000
+Policy = Mine
+T = 17.000000, E = 11.000000
+Total_power_max: 2679020429.425767, Avg_max: 21.704695 dBm
+Total_power_min: 2312464623.908917, Avg_min: 18.734960 dBm
+Condition: 20.219827 dBm
+Total_power: 2497981985.567930, Avg power: 20.237971 dBm
+Total cars: 123430456, Avg cars per sec: 1428 cars
+Handoffs: 416278 times
+Total time:125.843750 sec
+
+---
+
+Arrival rate: 0.333333
+Policy = Best
+T = 0.000000, E = 0.000000
+Total_power_max: 1929895429.114051, Avg_max: 21.709987 dBm
+Total_power_min: 1665309047.810274, Avg_min: 18.733573 dBm
+Condition: 20.221780 dBm
+Total_power: 1929895429.114051, Avg power: 21.709987 dBm
+Total cars: 88894362, Avg cars per sec: 1028 cars
+Handoffs: 977885 times
+Total time:83.015625 sec
+
+---
+
+Arrival rate: 0.333333
+Policy = Threshold
+T = 15.000000, E = 0.000000
+Total_power_max: 1934996450.223663, Avg_max: 21.706585 dBm
+Total_power_min: 1669839685.084671, Avg_min: 18.732085 dBm
+Condition: 20.219335 dBm
+Total_power: 1810840115.958066, Avg power: 20.313812 dBm
+Total cars: 89143292, Avg cars per sec: 1031 cars
+Handoffs: 512711 times
+Total time:82.500000 sec
+
+---
+
+Arrival rate: 0.333333
+Policy = Entorpy
+T = 0.000000, E = 13.000000
+Total_power_max: 1933340891.007838, Avg_max: 21.708162 dBm
+Total_power_min: 1668506084.814221, Avg_min: 18.734513 dBm
+Condition: 20.221337 dBm
+Total_power: 1806493131.130638, Avg power: 20.283875 dBm
+Total cars: 89060554, Avg cars per sec: 1030 cars
+Handoffs: 311901 times
+Total time:82.921875 sec
+
+---
+
+Arrival rate: 0.333333
+Policy = Mine
+T = 17.000000, E = 11.000000
+Total_power_max: 1934972116.206933, Avg_max: 21.713416 dBm
+Total_power_min: 1669676880.301205, Avg_min: 18.736388 dBm
+Condition: 20.224902 dBm
+Total_power: 1803992451.325280, Avg power: 20.243619 dBm
+Total cars: 89114129, Avg cars per sec: 1031 cars
+Handoffs: 301674 times
+Total time:83.500000 sec
+
+---
+
+Arrival rate: 0.200000
+Policy = Best
+T = 0.000000, E = 0.000000
+Total_power_max: 1232619177.552284, Avg_max: 21.702694 dBm
+Total_power_min: 1063797784.065838, Avg_min: 18.730260 dBm
+Condition: 20.216477 dBm
+Total_power: 1232619177.552284, Avg power: 21.702694 dBm
+Total cars: 56795677, Avg cars per sec: 657 cars
+Handoffs: 624305 times
+Total time:53.015625 sec
+
+---
+
+Arrival rate: 0.200000
+Policy = Threshold
+T = 15.000000, E = 0.000000
+Total_power_max: 1235582704.378207, Avg_max: 21.708708 dBm
+Total_power_min: 1066701389.127448, Avg_min: 18.741529 dBm
+Condition: 20.225119 dBm
+Total_power: 1156470355.586641, Avg power: 20.318735 dBm
+Total cars: 56916454, Avg cars per sec: 658 cars
+Handoffs: 325566 times
+Total time:52.640625 sec
+
+---
+
+Arrival rate: 0.200000
+Policy = Entropy
+T = 0.000000, E = 13.000000
+Total_power_max: 1236745020.448588, Avg_max: 21.708951 dBm
+Total_power_min: 1067168249.184619, Avg_min: 18.732320 dBm
+Condition: 20.220635 dBm
+Total_power: 1155605941.002926, Avg power: 20.284693 dBm
+Total cars: 56969359, Avg cars per sec: 659 cars
+Handoffs: 199326 times
+Total time:52.875000 sec
+
+---
+
+Arrival rate: 0.200000
+Policy = Mine
+T = 17.000000, E = 11.000000
+Total_power_max: 1237459030.065003, Avg_max: 21.713353 dBm
+Total_power_min: 1067951937.098360, Avg_min: 18.739058 dBm
+Condition: 20.226205 dBm
+Total_power: 1153934072.818300, Avg power: 20.247763 dBm
+Total cars: 56990694, Avg cars per sec: 659 cars
+Handoffs: 193366 times
+Total time:53.343750 sec
